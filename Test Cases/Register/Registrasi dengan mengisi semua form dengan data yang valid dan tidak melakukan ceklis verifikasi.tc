@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan registrasi menggunakan data yang valid tetapi tidak melakukan verifikasi</description>
+   <name>Registrasi dengan mengisi semua form dengan data yang valid dan tidak melakukan ceklis verifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07d9bb0f-75ff-487a-9be2-d9dabec5691d</testCaseGuid>
+</TestCaseEntity>

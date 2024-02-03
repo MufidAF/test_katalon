@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User melakukan klik pada tombol Back to Login</description>
+   <name>Cek tombol Back to Login pada halaman registrasi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da47e63f-6263-4d62-bbfe-5aaadc4276d2</testCaseGuid>
+</TestCaseEntity>

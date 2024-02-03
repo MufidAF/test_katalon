@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User mengakses halaman login dari Book Store Application</description>
+   <name>Akses halaman Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78d8c1f7-c504-4756-9683-26743574e9bc</testCaseGuid>
+</TestCaseEntity>

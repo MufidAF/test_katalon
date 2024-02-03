@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Register to Book Store</name>
+   <tag></tag>
+   <elementGuidId>1e539226-1ac7-4b93-8352-2b3ae37c12e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='userForm']/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>4633d249-92c9-4ae7-a70e-721f0e8abdc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register to Book Store</value>
+      <webElementGuid>549dad2f-383b-44ba-b9f4-9272b17a056d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userForm&quot;)/div[1]/h4[1]</value>
+      <webElementGuid>5cd72d5a-1ff5-4e7b-a2ad-3186b869e0f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='userForm']/div/h4</value>
+      <webElementGuid>146e62c8-43fb-4c2d-a4ce-f367daecb35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Store API'])[1]/following::h4[1]</value>
+      <webElementGuid>e4de984b-d7cf-4961-ac18-6ac26a3ad47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::h4[1]</value>
+      <webElementGuid>ee41a127-cf1a-4380-bc3d-85b509eaaba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name :'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4f6282ab-c8d9-4588-b6d6-bb7dbed6ff40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name :'])[1]/preceding::h4[1]</value>
+      <webElementGuid>65fa651f-7e42-4add-8cde-4e45f726fc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register to Book Store']/parent::*</value>
+      <webElementGuid>be9d8fbc-868f-4ced-a76c-cf8de90ac282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>c3a2478d-1b86-48db-9a1e-c7236f5d5968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Register to Book Store' or . = 'Register to Book Store')]</value>
+      <webElementGuid>9b00f661-f5c9-49c8-95b6-218a99e334be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
